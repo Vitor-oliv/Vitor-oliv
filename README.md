@@ -14,7 +14,11 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitor-oliv&repo=Vitor-oliv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitor-oliv&repo=projeto_lista_contatos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+###  Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-oliv&layout=compact)](https://github.com/anuraghzra/github-readme-stats)
 
 ### Contato
 [<img src='https://img.shields.io/badge/LinkedIn-007785?style=for=badge&logo=linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vitoroliveira-tech/)

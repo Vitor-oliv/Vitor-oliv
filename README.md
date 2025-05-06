@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Vitor-oliv/Vitor-oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades 
+![Python](https://img.shields.io/badge/Python-ff043b?style-for-the-badge&log-python&logoColor-blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style-for-thebadge&logo-java&logoColor-white)
 
-Here are some ideas to get you started:
+### Detalhes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-redme-stats.vercel.app/api?username=Vitor-oliv&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-redme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitor-oliv&repo=Vitor-oliv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contato
+[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for=badge&logo=linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vitoroliveira-tech/)

@@ -1,5 +1,4 @@
 ## Olá 👋
-
 ### Sobre o Vitor
 
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento e aprendizado constante. Atualmente estudo programação com foco em desenvolvimento web, buscando me tornar um desenvolvedor full stack. Gosto de resolver problemas, criar soluções úteis e aprender novas ferramentas. Ah, e claro: fã de café, rock, filmes, leitura e gatos! 🐱🎸📚
@@ -23,7 +22,7 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento e aprendizado con
 
 ### 🚀 Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitor-oliv&repo=projeto_lista_contatos&theme=tokyonight)](https://github.com/Vitor-oliv/projeto_lista_contatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitor-oliv&repo=exercicio_plugins_jquery&theme=tokyonight)](https://github.com/Vitor-oliv/projeto_lista_contatos)
 
 ---
 

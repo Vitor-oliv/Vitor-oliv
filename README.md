@@ -7,6 +7,7 @@
 ### Habilidades 
 ![Python](https://img.shields.io/badge/Python-ff043b?style-for-the-badge&log-python&logoColor-blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style-for-thebadge&logo-java&logoColor-white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Detalhes
 

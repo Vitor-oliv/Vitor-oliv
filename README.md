@@ -5,11 +5,12 @@
 
 
 ### Habilidades 
-![Python](https://img.shields.io/badge/Python-ff043b?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ff043b?style=for-the-badge&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-ff043b?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-ff043b?style=for-the-badge&logo=html5&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-ff043b?style=for-the-badge&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=flat-square&logo=html5&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
 
 
 ### Detalhes

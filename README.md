@@ -27,3 +27,5 @@
 
 ### Contato
 [<img src='https://img.shields.io/badge/LinkedIn-007785?style=for=badge&logo=linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vitoroliveira-tech/)
+![Email](https://img.shields.io/badge/Email-vitoroliveiraf22@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)
+![Telefone](https://img.shields.io/badge/Telefone-(11)93017--4173-25D366?style=flat-square&logo=whatsapp&logoColor=white)
